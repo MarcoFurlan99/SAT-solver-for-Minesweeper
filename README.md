@@ -7,3 +7,5 @@ If no safe cells nor mines are found, model counting is used to find the best gu
 Then repeats the process.
 
 Most games will either end during the random guesses or get solved.
+
+Scroll to the end of the code to see the algorithm at work!
